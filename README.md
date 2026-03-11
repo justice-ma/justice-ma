@@ -22,19 +22,6 @@ Repo: https://github.com/justice-ma/rotdb
 
 ---
 
-### FocusFlow
-Ambient productivity web app inspired by Soft Murmur.
-
-Tech:
-Next.js • React • Tailwind
-
-Features:
-- layered ambient sounds
-- focus timer
-- minimal distraction UI
-
----
-
 ## Skills
 
 Languages
