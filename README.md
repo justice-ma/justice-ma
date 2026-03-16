@@ -1,7 +1,9 @@
 # Hi, I'm Justice 👋
 
 💻 Software Development student @ SAIT (Southern Alberta Institute of Technology)
+
 ⚙️ Full-stack developer focused on **Java backend systems and data-driven applications**
+
 🛠 Currently building tools and simulations that model complex systems
 
 ---
