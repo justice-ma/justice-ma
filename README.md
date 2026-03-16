@@ -96,8 +96,6 @@ Agile / Team Development
 
 ## 📊 GitHub Stats
 
-![Justice's GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-ma\&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justice-ma\&layout=compact)
 
 ---
