@@ -1,42 +1,134 @@
-# Justice Mazerolle
+# Hi, I'm Justice 👋
 
-Software Development student at SAIT (Grad 2026)
+💻 Software Development student @ SAIT (Southern Alberta Institute of Technology)
+⚙️ Full-stack developer focused on **Java backend systems and data-driven applications**
+🛠 Currently building tools and simulations that model complex systems
 
-I build backend systems, data pipelines, and developer tools.
+---
 
-## Projects
+## 🚀 Featured Project
 
 ### RuneScape Ability Damage Calculator
-Full-stack application that models RuneScape 3 combat mechanics.
+
+A full-stack combat simulation engine that models RuneScape 3 ability damage based on player equipment, buffs, and combat mechanics.
+
+**Tech Stack**
+
+* Java 21
+* Spring Boot
+* PostgreSQL
+* React
+
+**Key Features**
+
+* Ability damage calculation engine
+* Equipment modifier pipeline
+* Buff / perk interaction system
+* Combat preset configuration
+* REST API backend
+
+🔗 Repository:
+https://github.com/justice-ma/rotdb
+
+---
+
+## 🧠 Currently Working On
+
+* Expanding the **RuneScape combat simulation engine**
+* Building a **rotation builder / combat simulator**
+* Improving backend architecture and performance
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+Java
+Spring Boot
+REST APIs
+SQL / PostgreSQL
+Object-Oriented Design
+
+### Frontend
+
+React
+JavaScript
+TypeScript
+HTML
+CSS
+
+### Languages
+
+Java
+JavaScript
+TypeScript
+Python
+C#
+SQL
+
+### Databases
+
+PostgreSQL
+Relational Database Design
+SQL Query Optimization
+
+### Tools & Platforms
+
+Git
+Docker
+Linux
+IntelliJ IDEA
+VS Code
+
+### Software Engineering
+
+Object-Oriented Programming
+Software Testing
+REST API Design
+Database Modeling
+Full-Stack Web Development
+Agile / Team Development
+
+---
+
+## 📊 GitHub Stats
+
+![Justice's GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-ma\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justice-ma\&layout=compact)
+
+---
+
+## 📂 Notable Projects
+
+### RuneScape Ability Damage Calculator
+
+Full-stack combat simulation tool modeling RuneScape mechanics.
 
 Tech:
-Java • Spring Boot • PostgreSQL • React • Docker
+Java • Spring Boot • PostgreSQL • React
+
+---
+
+### SAIT Capstone Project
+
+Laboratory equipment scheduling and order management system.
 
 Features:
-- Ability damage simulation pipeline
-- Equipment + perk modifier system
-- REST API for damage calculations
-- Frontend interface for testing rotations
 
-Repo: https://github.com/justice-ma/rotdb
+* Equipment queue management
+* Order tracking
+* Lab scheduling
 
 ---
 
-## Skills
+## 📫 Contact
 
-Languages
-Java, Python, JavaScript, SQL
-
-Frameworks
-Spring Boot, React
-
-Tools
-Docker, Git, PostgreSQL, Linux
+LinkedIn: https://www.linkedin.com/in/justice-mazerolle-119690336/
 
 ---
 
-## Currently Learning
+## ⚡ Fun Fact
 
-Distributed systems  
-Cloud infrastructure  
-High-performance backend systems
+I enjoy building software that models complex systems — from game mechanics to real-world workflows.
