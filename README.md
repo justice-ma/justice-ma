@@ -126,9 +126,3 @@ Features:
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/justice-mazerolle-119690336/
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building software that models complex systems — from game mechanics to real-world workflows.
